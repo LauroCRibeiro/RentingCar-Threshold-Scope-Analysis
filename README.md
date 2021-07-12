@@ -10,4 +10,4 @@ In order to mitigate those issues the task is to implement a minimum delay betwe
 ## The Product Manager still needs to decide:
 
 - the threshold: how long should the minimum delay be?
-= the scope: should we enable the feature for all cars?, only Connect cars?
+- the scope: should we enable the feature for all cars?, only Connect cars?
